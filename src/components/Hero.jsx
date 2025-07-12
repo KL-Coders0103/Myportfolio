@@ -66,7 +66,7 @@ export default function Hero() {
             View Projects
           </Link>
           <a
-            href="/Lovesh_Resume.pdf"
+            href="/Lovesh__Bodhani__Resume.pdf"
             target="_blank"
             rel="noopener noreferrer"
             className="px-6 py-3 border border-indigo-600 text-indigo-600 hover:bg-indigo-100 dark:hover:bg-indigo-800 dark:text-purple-400 dark:border-purple-400 rounded-md transition duration-300 shadow-md"
