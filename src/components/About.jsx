@@ -5,7 +5,7 @@ import aboutImg from '/about.jpg';
 export default function About() {
   return (
     <section id="about" className="py-20 bg-gray-50 dark:bg-[#111] px-4 sm:px-6 lg:px-8">
-      <div className="max-w-6xl mx-auto flex flex-col-reverse md:flex-row items-center gap-12">
+      <div className="max-w-6xl mx-auto flex flex-col md:flex-row items-center gap-12">
         
         
         <div className="text-center md:text-left flex-1">
